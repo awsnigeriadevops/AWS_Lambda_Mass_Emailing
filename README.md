@@ -35,7 +35,7 @@ This project is a solution for sending mass emails using AWS Lambda. AWS Lambda 
      git https://github.com/awsnigeriadevops/AWS_Lambda_Mass_Emailing.git
      ```
 
-     *Please refer to [Contributing Guide](#https://github.com/awsnigeriadevops/AWS_Lambda_Mass_Emailing/blob/main/CONTRIBUTING.md) to learn more*
+     *Please refer to [Contributing Guide](https://github.com/awsnigeriadevops/AWS_Lambda_Mass_Emailing/blob/main/CONTRIBUTING.md) to learn more*
 
 2. Create an SES Configuration Set:
    - Log in to the AWS Management Console.
