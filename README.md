@@ -1,6 +1,6 @@
 # Mass Emailing using AWS Lambda
 
-**Contents**
+**Table of Contents**
 - [Project Overview](#overview)
 - [Features](#features)
 - [Setup](#setup-instructions)
@@ -54,7 +54,7 @@ This project is a solution for sending mass emails using AWS Lambda. AWS Lambda 
    - Use API Gateway endpoint to add a trigger for the Lambda function
 
 
-7. Test and Monitor:
+6. Test and Monitor:
    - Test the Lambda function by triggering the configured event.
    - Monitor the SES console and CloudWatch logs for email sending status and errors.
 
